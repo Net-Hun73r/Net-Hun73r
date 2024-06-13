@@ -21,7 +21,7 @@
 
 ![Charles Lomboni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Net-Hun73r&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moval0x1&theme=radical&count_private=true)](https://github.com/moval0x1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Net-Hun73r&theme=radical&count_private=true)](https://github.com/moval0x1/github-readme-stats)
 </div>
 
 <!---
