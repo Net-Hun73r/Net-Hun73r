@@ -17,14 +17,3 @@
 - 👋 Hi, I’m @Net.Hun73r
 - 👀 I’m interested in Reverse Engineering, Malware Analysis, Exploit Development, and Programming.
 
-<div id="body" align="center">
-
-![Charles Lomboni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Net-Hun73r&show_icons=true&theme=radical&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Net-Hun73r&theme=radical&count_private=true)](https://github.com/moval0x1/github-readme-stats)
-</div>
-
-<!---
-charleslomboni/charleslomboni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
